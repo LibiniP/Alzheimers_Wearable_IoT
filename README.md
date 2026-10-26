@@ -27,7 +27,6 @@ Alerts reach the caregiver over **Bluetooth** (local, instant) and **Wi-Fi + Thi
 13. [Roadmap and Future Scope](#roadmap-and-future-scope)
 14. [Repository Structure](#repository-structure)
 15. [References](#references)
-16. [License](#license)
 
 ---
 
